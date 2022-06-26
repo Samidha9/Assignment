@@ -1,0 +1,90 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "a29bb371-e98e-4cf2-b387-92c82d3e39da",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e1c74d84-77ed-4132-b927-9f632227dffb",
+   "metadata": {},
+   "source": [
+    "**Samidha Bhosale**<br>Data Scientist"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "f80e6253-7b50-4e60-a021-10be45bb63b5",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because I want to pursue career in Data-Driven-Astronomy. Data-Driven Astronomy (DDA) is a new approach to producing astronomical knowledge from archival data sets*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "66f93743-9085-4066-8cc7-ee558224f76c",
+   "metadata": {},
+   "source": [
+    "### The following code will print 'Hello World'"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "8573cc3b-dca3-4f3b-aa77-18ee884f2e3c",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Hello World\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello World\")"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5a6adb9a-b433-4c6e-8f8b-36fdbe9c1dba",
+   "metadata": {},
+   "source": [
+    "Flowers | Animals | Birds\n",
+    "--- | --- | ---\n",
+    "Rose | Tiger | Sparrow\n",
+    "Lotus | Elephant | ~~Mango~~\n",
+    "\n",
+    "* One\n",
+    "* Two\n",
+    "* Three"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
